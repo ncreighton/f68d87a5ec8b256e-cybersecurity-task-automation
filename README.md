@@ -1,2 +1,46 @@
-# f68d87a5ec8b256e-cybersecurity-task-automation
-Professional cybersecurity VS Code extension — without the professional price tag.  Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Status bar integration gives you real-time feedback without opening panels.  ## What's Included  - Cybersecurity Task Automation And Delegation — fully configured and ready to use - Inte
+# Cybersecurity Task Automation and Delegation System
+
+> Vscode Extension for Cybersecurity
+
+Professional cybersecurity VS Code extension — without the professional price tag.
+
+Integrates seamlessly into your VS Code workflow — keyboard shortcuts included. Status bar integration gives you real-time feedback without opening panels.
+
+## What's Included
+
+- Cybersecurity Task Automation And Delegation — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core language support | ✅ | ✅ |
+| Basic snippets | ✅ | ✅ |
+| Standard themes | ✅ | ✅ |
+| AI-powered completions | ❌ | ✅ |
+| Advanced refactoring | ❌ | ✅ |
+| Team sync | ❌ | ✅ |
+| Custom keybindings | ❌ | ✅ |
+| Priority bug fixes | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/cNi00j9z92k4e00eM4cZE1J)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
